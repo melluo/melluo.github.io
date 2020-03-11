@@ -944,3 +944,27 @@ textarea {
 }
 
 /*# sourceMappingURL=base.css.map */
+
+p.lead {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 300;
+  font-size: 2.4rem;
+  line-height: 1.625;
+  margin-bottom: 3.6rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+ .colored {
+    font-size: 100px;
+    margin: 1rem;
+    top: -24px;
+    position: relative;
+ }
+
+ .dev-icon-icon {
+    font-size: 100px;
+    margin: 1rem;
+    top: -24px;
+    position: relative;
+    color: white;
+ }
