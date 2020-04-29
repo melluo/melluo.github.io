@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://melodyluo.com/sitemap.xml
+Host: https://melodyluo.com
