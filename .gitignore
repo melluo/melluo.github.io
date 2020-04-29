@@ -3,9 +3,3 @@
 node_modules
 yarn-error.log
 package-lock.json
-
-# Build directory
-/public
-.DS_Store
-
-.vscode/
